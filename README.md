@@ -1,4 +1,4 @@
-# Sample_Superstore-EDA-
+# Superstore-EDA-
 ## My analyis for the datasets are:-
 1.Maximum are from Binders, Paper, furnishings, Phones, storage, art, accessories and minimum from copiers, machines, suppliers
 
